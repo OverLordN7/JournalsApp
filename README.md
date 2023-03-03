@@ -1,4 +1,3 @@
-# JournalsApp
 
 # Project's Title
 ### JournalsApp
